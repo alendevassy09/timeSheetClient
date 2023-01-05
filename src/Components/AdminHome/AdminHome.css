@@ -1,0 +1,15 @@
+
+.AdminHome{
+    display: flex;
+    
+}
+.outlet{
+    width: 90%;
+    height: 90%;
+    background-color:white;
+}
+.Admin-home-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

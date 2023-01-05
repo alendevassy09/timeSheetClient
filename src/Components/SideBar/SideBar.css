@@ -1,0 +1,20 @@
+.SideBar{
+    display: flex;
+    flex-direction: column;
+}
+.Buttons{
+    
+    height: fit-content;
+    width: 100%;
+    height: 45px;
+
+}
+.Button-body{
+    display: flex;
+    margin: auto;
+    height: 100%;
+}
+.Button-name{
+    
+    height: fit-content;
+}
